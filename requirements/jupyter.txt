@@ -1,0 +1,16 @@
+-r base.txt
+
+# requirements for jupyter
+tornado==5.1.1
+jupyter==1.0.0
+jupyterlab==0.35.4
+matplotlib==2.2.2
+seaborn==0.9.0
+plotly==3.5.0
+cufflinks==0.15
+japanize-matplotlib==1.0.4
+line-profiler==2.1.2
+memory-profiler==0.55.0
+py-heat-magic==0.0.2
+tqdm==4.31.1
+pyldavis==2.1.2

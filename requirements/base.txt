@@ -1,0 +1,11 @@
+numpy==1.16.2
+scipy==1.2.1
+pandas==0.23.3
+ipython==6.5.0
+tables==3.5.1
+fastprogress==0.1.20
+
+mecab-python3==0.7
+gensim==3.7.0
+scikit-learn==0.20.3
+bottle==0.12.16
