@@ -17,9 +17,8 @@ master-seminer-visualization
 
 ```
 ## Docker Install
-1. 以下のサイトよりDockerアカウントを作成後、インストール
-[https://hub.docker.com/editions/community/docker-ce-desktop-mac]()
-
+1. 以下のサイトよりDockerアカウントを作成後、インストールする
+   - [https://hub.docker.com/editions/community/docker-ce-desktop-mac]()
 2. ターミナルで以下のコマンドを打つとversionが表示されます
 ```aidl
 $ docker --version
