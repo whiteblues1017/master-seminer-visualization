@@ -43,3 +43,8 @@ $ make run-jupyter
 ```
 ※ 実行後に表示されるtokenを http://127.0.0.1:8880/ アクセス時に入力
 
+## 7/10以前に準備をしてくれた方へ
+./master-seminer-visualization 下で以下のコマンドを打ってください
+```aidl
+$ git pull origin master
+```
