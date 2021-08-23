@@ -3,7 +3,7 @@
 # requirements for jupyter
 tornado==5.1.1
 jupyter==1.0.0
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 matplotlib==2.2.2
 seaborn==0.9.0
 plotly==3.5.0
