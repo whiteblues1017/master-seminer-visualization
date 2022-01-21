@@ -1,7 +1,7 @@
 numpy==1.16.2
 scipy==1.2.1
 pandas==0.23.3
-ipython==6.5.0
+ipython==7.16.3
 tables==3.5.1
 fastprogress==0.1.20
 
